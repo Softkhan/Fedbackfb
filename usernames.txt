@@ -1,0 +1,13 @@
+lsd=AVqlX8Vs
+version=1
+ajax=0
+width=0
+pxr=0
+gps=0
+dimensions=0
+m_ts=1480337071
+li=ryY8WGS9GCyJ8gO1hL3fdXmg
+email=Zma kotak
+pass=bahahahah
+login=Log In
+
